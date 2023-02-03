@@ -8,17 +8,6 @@
   <a href="#-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ivaniltonneto/desFull">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ivaniltonneto/desFull">
-
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ivaniltonneto/desFull">
-
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ivaniltonneto/desFull">
-
-</p>
-
 <br/>
 
 ## 💻 Project
@@ -53,7 +42,7 @@ $ cd desFull/web
 $ yarn
 
 # Run the development server
-$ yarb dev
+$ yarn dev
 
 # The app will automatically reload if you change any of the source files.
 ```
