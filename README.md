@@ -60,6 +60,3 @@ $ yarn
 $ yarn dev
 
 # The app will automatically reload if you change any of the source files.```
-
-
-Made with ♥ by Ivanilton Neto - [Get in touch](https://www.linkedin.com/in/ivanilton-neto-a712a379/)
